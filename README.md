@@ -11,3 +11,6 @@ The features on Polkadot available in the given version are as follows:
 
 The frontend of this application uses React framework of JavaScript.
 The smart contract uses Solidity as its programming language, with hardhat as its development environment.
+
+Slides:
+https://www.canva.com/design/DAGLjuLhSyQ/qBGiokbSorDpe6_eM2qVpA/edit?utm_content=DAGLjuLhSyQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
